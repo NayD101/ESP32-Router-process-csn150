@@ -6,11 +6,11 @@ ESP32 NAT Router
 
 
 ## Purpose 
-[Create a ESP32](https://www.amazon.com/Aokin-ESP32-CAM-Development-Bluetooth-Arduino/dp/B08SLD8DKV/ref=sr_1_10?keywords=esp32%2Bcam&qid=1678904661&sr=8-10&th=1)
+Create a ESP32
 
 
 ## Equipment 
-ESP32 CAM
+[ESP32 CAM](https://www.amazon.com/Aokin-ESP32-CAM-Development-Bluetooth-Arduino/dp/B08SLD8DKV/ref=sr_1_10?keywords=esp32%2Bcam&qid=1678904661&sr=8-10&th=1)
 usb Micro data cable
 Micro memory chip 
 
