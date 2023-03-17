@@ -6,7 +6,11 @@ ESP32 NAT Router
 
 
 ## Purpose 
-Create a ESP32
+Use the firmware provided from this project to use ESP32 as a NAT Router  
++ ESP32 can be used as WIFI Range Extender
++ Can be used to create a seperate WIFI network with different SSID from home network
++ Used for additonal WIFI for guest/IOT devices with different SSID 
+
 
 
 ## Equipment 
@@ -22,6 +26,7 @@ Micro memory chip
 ![youtube ESP32 video](https://github.com/NayD101/ESP32-Router-process-csn150/blob/main/Martin%20youtube.png)
 
 ## Steps I followed 
+
 
 
 ## Problems 
