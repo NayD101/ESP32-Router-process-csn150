@@ -96,6 +96,11 @@ It you want to disable the web interface (e.g. for security reasons), go to the 
 
 ## Problems 
 
++ Had issues initally configuring ESP32
++ I figured if you dont go through each step carefully you will have to open and close the flash download tool a few times just to reset everything
++ I had issues after step 14 as i could not see MY ESP32 show up on my wifi settings 
++ Also I had to give the ESP 32 a minute when connecting to browser, it can lag a bit when connecting on internet browser  
+
 
 
 
