@@ -45,6 +45,12 @@ Micro memory chip
 7. Next Step is to configure this window before the tool is luanch. For the scope of this project we set the chip type to ESP32.
 
    ![Config window](https://github.com/NayD101/ESP32-Router-process-csn150/blob/main/Config%20drop%20down%20to%20Esp32.PNG)
+   
+8. You want to look at your ESP32 flash download tool window and set these configurations
+(https://github.com/NayD101/ESP32-Router-process-csn150/blob/main/ESP%2032%20tool%20Config.PNG)
+
+
+  
  
 
 
