@@ -40,7 +40,12 @@ Micro memory chip
 
 6. Next you will see a Windows screen pop when trying to open app, ingore the warning  select "more info" and procced to click "run anyway" 
 
-![run anyway](https://github.com/NayD101/ESP32-Router-process-csn150/blob/main/Run%20Anyway.PNG)
+  ![run anyway](https://github.com/NayD101/ESP32-Router-process-csn150/blob/main/Run%20Anyway.PNG)
+
+7. Next Step is to configure this window before the tool is luanch. For the scope of this project we set the chip type to ESP32.
+
+   ![Config window](https://github.com/NayD101/ESP32-Router-process-csn150/blob/main/Config%20drop%20down%20to%20Esp32.PNG)
+ 
 
 
 ## Problems 
