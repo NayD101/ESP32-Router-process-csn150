@@ -49,6 +49,10 @@ Micro memory chip
 8. You want to look at your ESP32 flash download tool window and set these configurations
 (https://github.com/NayD101/ESP32-Router-process-csn150/blob/main/ESP%2032%20tool%20Config.PNG)
 
+9. You can find these paths by selecting the three dots to the right of tool window 
+
+(https://github.com/NayD101/ESP32-Router-process-csn150/blob/main/Tool%20config.PNG)
+
 
   
  
