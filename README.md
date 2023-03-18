@@ -34,10 +34,11 @@ Micro memory chip
 
 3. Once the the File has finished downloading click on downloads on file Explorer and right click to Extract the zip File
 
-4. Next you want to find and double click on your Flash download tool and open it(https://github.com/NayD101/ESP32-Router-process-csn150/blob/main/ESP%20flash%20downlaod.PNG)
+4. [Next you want to find and double click on your Flash download tool and open it](https://github.com/NayD101/ESP32-Router-process-csn150/blob/main/ESP%20flash%20downlaod.PNG)
 
 5. [Select "Flash_download_tool_3.9.4" Application](https://github.com/NayD101/ESP32-Router-process-csn150/blob/main/Select%20application.PNG)
 
+6. 
 
 
 
