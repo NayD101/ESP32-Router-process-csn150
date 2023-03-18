@@ -25,7 +25,15 @@ Micro memory chip
 
 ![youtube ESP32 video](https://github.com/NayD101/ESP32-Router-process-csn150/blob/main/Martin%20youtube.png)
 
-## Steps I followed 
+## Steps That I followed 
+
+!. Download zip file from code section on [github.Martin-ger](https://github.com/martin-ger/esp32_nat_router)
+
+2. [Download this Flash Download Tool and The other 2 tools](https://www.espressif.com/en/support/download/other-tools)
+
+3. Once the the File has finished downloading click on downloads on file Explorer and right click to Extract the zip File
+
+4.  
 
 
 
