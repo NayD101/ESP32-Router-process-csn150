@@ -38,8 +38,9 @@ Micro memory chip
 5. Select flash downlaod tool
  ![Select "Flash_download_tool_3.9.4" Application](https://github.com/NayD101/ESP32-Router-process-csn150/blob/main/Select%20application.PNG)
 
-6. 
+6. Next you will see a Windows screen pop when trying to open app, ingore the warning  select "more info" and procced to click "run anyway" 
 
+![run anyway](https://github.com/NayD101/ESP32-Router-process-csn150/blob/main/Run%20Anyway.PNG)
 
 
 ## Problems 
