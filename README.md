@@ -53,6 +53,30 @@ Micro memory chip
 
 (https://github.com/NayD101/ESP32-Router-process-csn150/blob/main/Tool%20config.PNG)
 
+10. Make Sure the load is in the order of *ALSO MAKE SURE YOUR ESP32 is connected by this POINT VIA MICRO USB CABLE* 
+  +bootloader.bin
+  +Partitions.bin
+  +Firmware.bin
+
+11. Please make sure your flash tool looks like the picture mention in Step 9 if you want your build to correctly load. 
+
+12. Select Start on the Downlaod tool to proceed with build you should see a terminal next the tool
+
+(https://github.com/NayD101/ESP32-Router-process-csn150/blob/main/Flash%20download%20tool.PNG)
+
+
+13. Once load is succesfully finished please Unplug ESP32 for 10 seconds 
+
+14. Plug in again after 10 seconds and open your Network settings your NAT_Router should pop up in your wifi settings
+
+![Network properties](https://github.com/NayD101/ESP32-Router-process-csn150/blob/main/Network%20Router.PNG)
+
+
+15. You want to connect to it and Open a internet browser 
+
+16. In the url Enter "192.168.4.1" 
+
+17. Once the page loads  you will presented with this interface 
 
   
  
