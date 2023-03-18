@@ -35,7 +35,7 @@ Micro memory chip
 3. Once the the File has finished downloading click on downloads on file Explorer and right click to Extract the zip File
 
 4. Next you want to find and double click on your Flash download tool and open it 
-ESP flash downlaod.PNG
+(ESP flash downlaod.PNG)
 
 
 
