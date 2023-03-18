@@ -80,6 +80,16 @@ Micro memory chip
 
 ![Web config interface](https://raw.githubusercontent.com/marci07iq/esp32_nat_router/master/ESP32_NAT_UI3.png)
 
+The Following Steps was taken From [Martin-ger project to further explain Uses with the Device  ](https://github.com/martin-ger/esp32_nat_router)
+
+First enter the appropriate values for the uplink WiFi network, the "STA Settings". Leave password blank for open networks. Click "Connect". The ESP32 reboots and will connect to your WiFi router.
+
+Now you can reconnect and reload the page and change the "Soft AP Settings". Click "Set" and again the ESP32 reboots. Now it is ready for forwarding traffic over the newly configured Soft AP. Be aware that these changes also affect the config interface, i.e. to do further configuration, connect to the ESP32 through one of the newly configured WiFi networks.
+
+If you want to enter a '+' in the web interface you have to use HTTP-style hex encoding like "Mine%2bYours". This will result in a string "Mine+Yours". With this hex encoding you can enter any byte value you like, except for 0 (for C-internal reasons).
+
+It you want to disable the web interface (e.g. for security reasons), go to the CLI and enter:
+
   
  
 
